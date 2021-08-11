@@ -1,0 +1,79 @@
+<resources>
+<!--    activity_main Strints-->
+    <string name="main_title">400만이 선택한 편집샵</string>
+    <string name="main_id"> EMAIL</string>
+    <string name="main_pw"> Password</string>
+    <string name="activity_main_btn_name">Sign In</string>
+    <!--    activity_second Strings-->
+    <string name="app_name">LookPin</string>
+    <string name="title">LOOKPIN</string>
+    <string name="search_hint">다양한 상품과 브랜드를 검색하세요</string>
+    <string name="center_menu1">ALL</string>
+    <string name="center_menu2">상의</string>
+    <string name="center_menu3">아우터</string>
+    <string name="center_menu4">하의</string>
+    <string name="center_menu5">신발</string>
+    <string name="tab1">상품</string>
+    <string name="tab2">쇼핑몰</string>
+    <string name="tab3">브랜드</string>
+    <string name="content1_1">로댄티</string>
+    <string name="content1_2">국민 라운드 반팔티</string>
+    <string name="content1_3">9,900</string>
+    <string name="content1_4">원</string>
+    <string name="content1_5">★ 4.8</string>
+    <string name="content1_6">/999+명</string>
+    <string name="content2_1">테이크잇</string>
+    <string name="content2_2">가성비 좋은 베이직 트임 반판</string>
+    <string name="content2_3">12,200</string>
+    <string name="content2_4">원</string>
+    <string name="content2_5">★ 4.8</string>
+    <string name="content2_6">/701명</string>
+    <string name="content3_1">플레이마틴</string>
+    <string name="content3_2">[당일출고]페인팅 백나염 오버핏</string>
+    <string name="content3_3">17,800</string>
+    <string name="content3_4">원</string>
+    <string name="content3_5">★ 4.7</string>
+    <string name="content3_6">/243명</string>
+    <string name="content4_1">모노포스</string>
+    <string name="content4_2">노르 분또 반판티 DH43</string>
+    <string name="content4_3">14,400</string>
+    <string name="content4_4">원</string>
+    <string name="content4_5">★ 4.6</string>
+    <string name="content4_6">/943명</string>
+    <!--//activity_third Strings-->
+    <string name="qanda">상품 Q&amp;A</string>
+    <string name="top_info_lv">Lv. 1</string>
+    <string name="top_info_acc">1.0% 적립</string>
+    <string name="top_info_email">yosan1111@naver.com</string>
+    <string name="top_info_modify">정보 수정</string>
+    <string name="top_info_accum">적립금</string>
+    <string name="top_info_won">0원</string>
+    <string name="top_info_coupon">쿠폰함</string>
+    <string name="top_info_count">0개</string>
+    <string name="mid_info_order_his">주문내역</string>
+    <string name="mid_info_order_recent">(최근 1개월)</string>
+    <string name="mid_info_order_deposit">입금/결제</string>
+    <string name="mid_info_order_ready">배송준비중</string>
+    <string name="mid_info_order_delivery">배송중</string>
+    <string name="mid_info_order_finish">배송완료</string>
+    <string name="mid_info_order_postprocessing">취소/교환/환불</string>
+    <string name="low_info_shoppingbasket">내가 담은</string>
+    <string name="low_info_shoppingbasket1">장바구니</string>
+    <string name="low_info_count">0개</string>
+    <string name="low_info_like">코디좋아요</string>
+    <string name="low_info_favorite">즐겨찾기</string>
+    <string name="low_info_question">상품 1:1 문의</string>
+    <string name="low_info_review">상품 리뷰</string>
+    <string name="low_info_claim">룩핀 고객센터</string>
+    <string name="low_info_pined">핀 한 상품</string>
+
+
+
+
+
+
+
+
+
+
+</resources>
